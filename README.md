@@ -12,31 +12,10 @@
 
 ## 🌱 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+ML · DL 모델의 해석 가능성(XAI)과 실전 데이터 문제 해결에 관심이 많습니다 🔍
 
-**서울여자대학교** 데이터사이언스학과 4학년  
-디지털미디어학과 복수전공  
-
-데이터사이언스 소학회 **DSOB** 전 운영팀장 · 전 회장  
-
-ML · DL 모델의 해석 가능성(XAI)과  
-실전 데이터 문제 해결에 관심이 많습니다
-
-</td>
-<td width="35%" valign="top">
-
-📜 **Certifications**  
-SQLD  
-ADsP  
-
-🎓 **GPA**  
-4.17 / 4.5
-
-</td>
-</tr>
-</table>
+서울여자대학교 데이터사이언스학과 4학년 (디지털미디어학과 복수전공)  
+데이터사이언스 소학회 DSOB 전 운영팀장 · 전 회장
 
 ## 🛠️ Tech Stack
 
@@ -46,11 +25,11 @@ ADsP
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**ML / DL**  
+**ML / DL / Data**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -61,65 +40,35 @@ ADsP
 ![SHAP](https://img.shields.io/badge/SHAP-7C4DFF?style=flat-square&logo=python&logoColor=white)
 
 **Tools & Design**  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## 📈 Skill Levels
-
-```text
-Python          🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
-Figma           🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
-scikit-learn    🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
-Kotlin          🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
-C++             🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-PyTorch         🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
-```
 
 ## 🏆 Highlights
 
-🔋 **배터리 SOC 예측** `2025.03 ~ 2025.09`  
-XGBoost + SHAP 해석 기반 리튬이온 전지 충전상태 예측 · 논문 경진대회 **우수상** 🏆
+- 🔋 **배터리 SOC 예측** `2025.03 ~ 2025.09`  
+  XGBoost + SHAP 해석 기반 리튬이온 전지 충전상태 예측 · 논문 경진대회 우수상 🏆
 
-🛩️ **UAV 실시간 객체 탐지** `2025.09 ~ 2025.12`  
-YOLOv8 + 6종 영상 전처리 벤치마킹 · 공군사관학교 학술대회 **KAI 특별상** 🏆
+- 🛩️ **UAV 실시간 객체 탐지** `2025.09 ~ 2025.12`  
+  YOLOv8 + 6종 영상 전처리 벤치마킹 · 공군사관학교 학술대회 KAI 특별상 🏆
 
-💳 **신용카드 고객 세그멘테이션** `2025.03 ~ 2025.06`  
-XGBoost + SHAP 기반 고객 분류 · DACON 경진대회 236팀 중 53위 (상위 23%)
+- 💳 **신용카드 고객 세그멘테이션** `2025.03 ~ 2025.06`  
+  XGBoost + SHAP 기반 고객 분류 · DACON 경진대회 236팀 중 53위 (상위 23%)
 
-🥬 **김 이물질 검출** `2024.09 ~ 2024.11`  
-Faster R-CNN · ResNet 기반 식품 이물질 객체 탐지
+- 🥬 **김 이물질 검출** `2024.09 ~ 2024.11`  
+  Faster R-CNN · ResNet 기반 식품 이물질 객체 탐지
 
-🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06`  
-AI 윤리 캠페인 퀴즈 웹 · GitHub Pages 배포 · 참여자 249명
+- 🌐 **에티코드 — AI 편향 체험 퀴즈** `2025.03 ~ 2025.06`  
+  AI 윤리 캠페인 퀴즈 웹 · GitHub Pages 배포 · 참여자 249명
 
-🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중`  
-AI 기반 고령층 낙상 감지 헬스케어 앱 · 기획 / UI·UX / 프론트엔드 담당
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=stoney109&show_icons=true&bg_color=00000000&title_color=45a64e&text_color=555555&icon_color=6dbf73&hide_border=true&hide_rank=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoney109&layout=compact&bg_color=00000000&title_color=45a64e&text_color=555555&hide_border=true"/>
-</p>
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=stoney109&hide_border=true&background=00000000&ring=45a64e&fire=45a64e&currStreakLabel=45a64e&sideLabels=555555&dates=aaaaaa"/>
-</p>
-
-## 💬 Random Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true"/>
-</p>
+- 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중`  
+  AI 기반 고령층 낙상 감지 헬스케어 앱 · 기획 / UI·UX / 프론트엔드 담당
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dbf73,100:45a64e&height=100&section=footer"/>
