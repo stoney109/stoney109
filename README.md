@@ -6,7 +6,7 @@
 
   <br>
 
-  <a href="https://github.com/stoney109"><img src="https://img.shields.io/badge/🪨_Stoney_=_돌맹이-45a64e?style=for-the-badge"/></a>
+  
 
 </div>
 
@@ -16,6 +16,8 @@ ML · DL 모델의 해석 가능성(XAI)과 실전 데이터 문제 해결에 �
 
 서울여자대학교 데이터사이언스학과 4학년 (디지털미디어학과 복수전공)  
 데이터사이언스 소학회 DSOB 전 운영팀장 · 전 회장
+
+  <br>
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +52,8 @@ ML · DL 모델의 해석 가능성(XAI)과 실전 데이터 문제 해결에 �
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+  <br>
+
 ## 🏆 Highlights
 
 - 🔋 **배터리 SOC 예측** `2025.03 ~ 2025.09`  
@@ -69,6 +73,8 @@ ML · DL 모델의 해석 가능성(XAI)과 실전 데이터 문제 해결에 �
 
 - 🩺 **늘봄 낙상감지 앱** `2026.04 ~ 진행 중`  
   AI 기반 고령층 낙상 감지 헬스케어 앱 · 기획 / UI·UX / 프론트엔드 담당
+
+    <br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dbf73,100:45a64e&height=100&section=footer"/>
