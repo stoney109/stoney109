@@ -12,17 +12,17 @@ Undergraduate in Data Science and Digital Media at Seoul Women's University.
 
 ### 🏆 Highlights
 
-- 🩺 **[2026.04 ~ 11]** 늘봄 · AI fall detection healthcare app for older adults  
+- 🩺 **[2026.04 ~ 2026.11]** 늘봄 · AI fall detection healthcare app for older adults  
   Planning, UI/UX design, and frontend development
-- 🛩️ **[2025.12]** ${\color{#45a64e}\textsf{KAI Special Award}}$ at 2025 공군사관학교 미래 항공우주 학술대회  
+- 🛩️ **[2025.09 ~ 2025.12]** ${\color{#45a64e}\textsf{KAI Special Award}}$ at 2025 공군사관학교 미래 항공우주 학술대회  
   UAV real-time object detection with YOLOv8, benchmarking 6 image preprocessing methods
-- 🔋 **[2025.09]** ${\color{#45a64e}\textsf{Excellence Award}}$ at 2025 산업안전 상생 논문 경진대회  
+- 🔋 **[2025.03 ~ 2025.09]** ${\color{#45a64e}\textsf{Excellence Award}}$ at 2025 산업안전 상생 논문 경진대회  
   Li-ion battery SOC prediction with XGBoost and SHAP interpretation
-- 💳 **[2025.06]** Top 23% (53/236 teams) in a DACON competition  
+- 💳 **[2025.03 ~ 2025.06]** Top 23% (53/236 teams) in a DACON competition  
   Credit card customer segmentation with XGBoost and SHAP
-- 🌐 **[2025.06]** 에티코드 · AI bias quiz for an AI ethics campaign  
+- 🌐 **[2025.03 ~ 2025.06]** 에티코드 · AI bias quiz for an AI ethics campaign  
   Deployed on GitHub Pages, 249 participants
-- 🥬 **[2024.11]** Foreign object detection in dried seaweed (gim)  
+- 🥬 **[2024.09 ~ 2024.11]** Foreign object detection in dried seaweed (gim)  
   Object detection with Faster R-CNN and ResNet
 
 ### 🛠️ Tech Stack
@@ -35,7 +35,6 @@ Undergraduate in Data Science and Digital Media at Seoul Women's University.
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 - **ML / DL / Data**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
