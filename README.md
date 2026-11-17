@@ -12,7 +12,7 @@ Undergraduate in Data Science and Digital Media at Seoul Women's University.
 
 ### 🏆 Highlights
 
-- 🩺 **[2026.04 ~ ]** 늘봄 · AI fall detection healthcare app for older adults  
+- 🩺 **[2026.04 ~ 11]** 늘봄 · AI fall detection healthcare app for older adults  
   Planning, UI/UX design, and frontend development
 - 🛩️ **[2025.12]** ${\color{#45a64e}\textsf{KAI Special Award}}$ at 2025 공군사관학교 미래 항공우주 학술대회  
   UAV real-time object detection with YOLOv8, benchmarking 6 image preprocessing methods
